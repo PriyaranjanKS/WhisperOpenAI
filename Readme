@@ -1,13 +1,1 @@
-# Proposal - <Whisper Open AI> (Independent Publisher)
 
-The proposed connector leverages the Open AI endpoint to perform robust audio processing, providing functionalities for transcribing and translating audio to text.
-
-## Actions
-
-### Transcribe Audio
-
-This action allows the transcription of audio into text, providing a convenient method to convert spoken words within an audio file into written text for various applications.
-
-
-### Translate Audio
-This action enables the user to translate the audio from any language to English Text
